@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  padding: 10px;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#matchedRule {
+  background-color: #FFFFB6;
+  padding: 10px;
+  border-radius: 4px;
+}
